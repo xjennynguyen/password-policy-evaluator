@@ -10,7 +10,7 @@ three password policies and analyzing metrics like strength, cracking time, and 
 
 ## Features
 
-- Tests different hashing techniques:
+- Tests three different hashing techniques:
   - MD5
   - SHA-256
   - Salted SHA-256 with hashing time comparison
